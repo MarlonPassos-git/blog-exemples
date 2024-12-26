@@ -1,0 +1,13 @@
+{
+	"store.home": {
+		"blocks": [],
+		"parent": {
+			"header": "flex-layout.row#nothing",
+			"footer": "flex-layout.row#nothing"
+		}
+	},
+	"flex-layout.row#nothing": {
+		"children": [],
+		"props": {}
+	}
+}
